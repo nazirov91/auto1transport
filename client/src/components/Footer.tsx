@@ -56,7 +56,7 @@ export default function Footer() {
         <div className='py-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8'>
           {/* Company Info */}
           <div className='lg:col-span-2'>
-            <div className='text-2xl font-bold text-primary mb-4'>AAA Transporters</div>
+            <div className='text-2xl font-bold text-primary mb-4'>Auto1Transport</div>
             <p className='text-muted-foreground mb-6 text-sm leading-relaxed'>
               America's trusted auto transport company with over 15 years of experience. We provide
               safe, reliable, and affordable vehicle shipping services nationwide.
@@ -66,15 +66,15 @@ export default function Footer() {
             <div className='space-y-2'>
               <div className='flex items-center gap-3 text-sm'>
                 <Phone className='h-4 w-4 text-primary' />
-                <span className='text-foreground'>1-888-889-0939</span>
+                <span className='text-foreground'>573-290-2408</span>
               </div>
               <div className='flex items-center gap-3 text-sm'>
                 <Mail className='h-4 w-4 text-primary' />
-                <span className='text-foreground'>cdelany@aaatransporters.co</span>
+                <span className='text-foreground'>sales@Auto1Transport.co</span>
               </div>
               <div className='flex items-center gap-3 text-sm'>
                 <MapPin className='h-4 w-4 text-primary' />
-                <span className='text-foreground'>6340 SW 163RD PL, MIAMI, FL 33193</span>
+                <span className='text-foreground'>1301 N. Kingshighway Cape Girardeau Mo. 63701</span>
               </div>
             </div>
 
@@ -141,7 +141,7 @@ export default function Footer() {
               >
                 Terms of Service
               </Link>
-              <span className='text-muted-foreground'>USDOT 2246322</span>
+              <span className='text-muted-foreground'>USDOT</span>
             </div>
           </div>
         </div>
