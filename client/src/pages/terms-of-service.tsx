@@ -199,7 +199,7 @@ export default function TermsOfService() {
           <h2 className='text-2xl font-semibold'>13. Contact Information</h2>
           <p className='text-muted-foreground leading-7'>
             If you have questions about these Terms or need to update your communication preferences,
-            contact us at {email} or call {phone}. Written notices may be sent to our main office.
+            contact us at Sales@Auto1Transport.co or call +1 573-290-2408. Written notices may be sent to our main office.
           </p>
         </section>
       </div>
