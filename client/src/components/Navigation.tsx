@@ -19,7 +19,7 @@ export default function Navigation() {
           {/* Logo */}
           <div className='flex-shrink-0'>
             <a href='/' className='flex items-center' data-testid='header-logo'>
-              <div className='text-2xl font-bold text-primary'>AAA Transporters</div>
+              <div className='text-2xl font-bold text-primary'>Auto1Transport</div>
             </a>
           </div>
 
@@ -68,7 +68,7 @@ export default function Navigation() {
           <div className='hidden md:flex items-center space-x-4'>
             <div className='flex items-center text-sm text-muted-foreground'>
               <Phone className='h-4 w-4 mr-1' />
-              <span>1-888-889-0939</span>
+              <span>573-290-2408</span>
             </div>
             <Button
               onClick={() => scrollToSection('quote')}
@@ -135,7 +135,7 @@ export default function Navigation() {
             <div className='px-3 py-2'>
               <div className='flex items-center text-sm text-muted-foreground mb-2'>
                 <Phone className='h-4 w-4 mr-1' />
-                <span>1-888-889-0939</span>
+                <span>573-290-2408</span>
               </div>
               <Button
                 onClick={() => scrollToSection('quote')}
