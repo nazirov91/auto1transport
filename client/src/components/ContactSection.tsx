@@ -27,13 +27,13 @@ const contactInfo = [
   {
     icon: Phone,
     title: 'Call Us Now',
-    details: '1-888-889-0939',
+    details: '573-290-2408',
     description: 'Speak with a transport specialist',
   },
   {
     icon: Mail,
     title: 'Email Us',
-    details: 'cdelany@aaatransporters.co',
+    details: 'sales@Auto1Transport.com',
     description: 'Get a response within 1 hour',
   },
   {
@@ -132,7 +132,7 @@ export default function ContactSection() {
                     onClick={() => console.log('Call now clicked')}
                   >
                     <Phone className='h-4 w-4 mr-2' />
-                    Call 1-888-889-0939
+                    Call 573-290-2408
                   </Button>
                   <Button
                     variant='outline'
