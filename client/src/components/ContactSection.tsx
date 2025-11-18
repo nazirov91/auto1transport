@@ -33,7 +33,7 @@ const contactInfo = [
   {
     icon: Mail,
     title: 'Email Us',
-    details: 'sales@Auto1Transport.com',
+    details: 'sales@Auto1Transport.co',
     description: 'Get a response within 1 hour',
   },
   {
