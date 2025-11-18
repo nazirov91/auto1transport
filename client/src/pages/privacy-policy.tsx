@@ -197,13 +197,13 @@ export default function PrivacyPolicy() {
             at:
           </p>
           <address className='not-italic text-muted-foreground leading-7'>
-            {businessName}
+            Auto1Transport
             <br />
-            {address}
+            Address: 1301 N. Kingshighway Cape Girardeau Mo. 63701
             <br />
-            Phone: {phone}
+            Phone: +1 573-290-2408
             <br />
-            Email: {email}
+            Email: Sales@Auto1Transport.co
           </address>
         </section>
       </div>
