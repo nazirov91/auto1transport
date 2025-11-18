@@ -625,8 +625,7 @@ export default function MultiStepQuoteForm() {
                     htmlFor='privacy'
                     className='text-sm cursor-pointer'
                   >
-                    By providing your mobile number and clicking "Get My Quote," you consent to receive automated and non-automated marketing text messages (e.g., quotes, shipment updates, promotions) from C&R Delany LLC, DBA AAA Transporters at the number you provided. Consent is not a condition of purchase. Message frequency varies. Message and data rates may apply. Reply STOP to cancel, HELP for help. View our SMS Terms and Conditions and Privacy Policy for details:
-https://aaatransporters.co/terms-of-service | https://aaatransporters.co/privacy-policy.
+                    By providing your mobile number and clicking "Get My Quote," you consent to receive automated and non-automated marketing text messages (e.g., quotes, shipment updates, promotions) from C&R Delany LLC, DBA AAA Transporters at the number you provided. Consent is not a condition of purchase. Message frequency varies. Message and data rates may apply. Reply STOP to cancel, HELP for help. View our SMS Terms and Conditions and Privacy Policy for details: https://auto1transport.co/terms-of-service | https://auto1transport.co/privacy-policy.
                   </Label>
                 </div>
               </div>
